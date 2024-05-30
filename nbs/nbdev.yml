@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_taller"
+  site-url: "https://CristopherFoster.github.io/nbdev_taller"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/CristopherFoster/nbdev_taller"
